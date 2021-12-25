@@ -7,6 +7,7 @@
 4. Run `bin/main.py`, portfolio allocation will output on console and efficient frontier plot will save to root location.
 
 ## Folder Structure
+```
 ├── README.md
 ├── bin
 │   └── main.py
@@ -19,3 +20,4 @@
     └── FTX
         ├── __init__.py
         └── client.py
+```
