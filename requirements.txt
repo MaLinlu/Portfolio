@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+matplotlib
+black
+pylint
+pytest
